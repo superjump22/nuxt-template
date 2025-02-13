@@ -1,7 +1,7 @@
 {
   "type": "module",
   "private": true,
-  "packageManager": "pnpm@9.15.4",
+  "packageManager": "pnpm@10.3.0",
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
@@ -17,13 +17,13 @@
     "vue-router": "^4.5.0"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "^4.1.0",
-    "@nuxt/eslint": "1.0.0",
+    "@antfu/eslint-config": "^4.2.0",
+    "@nuxt/eslint": "1.0.1",
     "@unocss/eslint-config": "^65.4.3",
     "@unocss/nuxt": "^65.4.3",
     "@unocss/reset": "^65.4.3",
     "@vueuse/nuxt": "12.5.0",
-    "eslint": "^9.19.0",
+    "eslint": "^9.20.1",
     "eslint-plugin-format": "^1.0.1",
     "lint-staged": "^15.4.3",
     "simple-git-hooks": "^2.11.1",
