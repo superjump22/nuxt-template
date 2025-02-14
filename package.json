@@ -1,7 +1,7 @@
 {
   "type": "module",
   "private": true,
-  "packageManager": "pnpm@10.3.0",
+  "packageManager": "pnpm@10.4.0",
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
@@ -22,7 +22,7 @@
     "@unocss/eslint-config": "^65.4.3",
     "@unocss/nuxt": "^65.4.3",
     "@unocss/reset": "^65.4.3",
-    "@vueuse/nuxt": "12.5.0",
+    "@vueuse/nuxt": "12.6.1",
     "eslint": "^9.20.1",
     "eslint-plugin-format": "^1.0.1",
     "lint-staged": "^15.4.3",
